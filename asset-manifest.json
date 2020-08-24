@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "//Cipher_Schools_Assignment3/static/css/main.4b75051d.chunk.css",
+    "main.js": "//Cipher_Schools_Assignment3/static/js/main.3624af21.chunk.js",
+    "main.js.map": "//Cipher_Schools_Assignment3/static/js/main.3624af21.chunk.js.map",
+    "runtime-main.js": "//Cipher_Schools_Assignment3/static/js/runtime-main.16a4cf20.js",
+    "runtime-main.js.map": "//Cipher_Schools_Assignment3/static/js/runtime-main.16a4cf20.js.map",
+    "static/js/2.595c0bba.chunk.js": "//Cipher_Schools_Assignment3/static/js/2.595c0bba.chunk.js",
+    "static/js/2.595c0bba.chunk.js.map": "//Cipher_Schools_Assignment3/static/js/2.595c0bba.chunk.js.map",
+    "index.html": "//Cipher_Schools_Assignment3/index.html",
+    "precache-manifest.e7c75adc28a1e125142b9d2b94b358a3.js": "//Cipher_Schools_Assignment3/precache-manifest.e7c75adc28a1e125142b9d2b94b358a3.js",
+    "service-worker.js": "//Cipher_Schools_Assignment3/service-worker.js",
+    "static/css/main.4b75051d.chunk.css.map": "//Cipher_Schools_Assignment3/static/css/main.4b75051d.chunk.css.map",
+    "static/js/2.595c0bba.chunk.js.LICENSE.txt": "//Cipher_Schools_Assignment3/static/js/2.595c0bba.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "//Cipher_Schools_Assignment3/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16a4cf20.js",
+    "static/js/2.595c0bba.chunk.js",
+    "static/css/main.4b75051d.chunk.css",
+    "static/js/main.3624af21.chunk.js"
+  ]
+}
